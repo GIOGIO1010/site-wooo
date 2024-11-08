@@ -1,0 +1,39 @@
+.Urbain{
+    background-color: rgb(71, 161, 213);
+    border-style:solid ;
+    border-width: 10px;
+    border-color: rgb(20, 113, 170);
+    border-radius: 15px;
+    text-align: center;
+    color: black;
+    padding: 8px;
+    font-size: 25px ;
+
+}
+.link-navigazione{
+    color: rgb(9, 1, 10);
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+.foglio{
+    border-style: solid;
+    border-color: rgb(224, 138, 217);
+    position: absolute;
+    top: 150px;
+    left: 5px;
+}
+
+
+.hello{
+    color: rgb(23, 23, 126);
+    font-weight: 500px ;
+    font-size: 30px;
+}
+
+
+.gio{
+    font-size: 10px;
+    color: lightblue;
+}
